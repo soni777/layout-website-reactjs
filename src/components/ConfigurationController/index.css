@@ -1,0 +1,20 @@
+.config-container {
+  height: 20vh;
+  background-color: #475569;
+  color: #f1f5f9;
+  padding: 3px 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox-container {
+  margin-bottom: 5px;
+}
+
+.config-title {
+  margin: 0px 0px 8px 0px;
+}
+
+.label {
+  font-size: 14px;
+}
